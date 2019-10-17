@@ -1,0 +1,7 @@
+*.properties
+DateOfPosts
+*jar
+.classpath
+.project
+.settings/
+bin/
